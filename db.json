@@ -1,0 +1,10 @@
+{
+	"documents": [
+		{ "id": 1, "document": "ARAging.xls", "type": "AR Aging", "category": "Client", "status": "Reviewed" },
+		{ "id": 2, "document": "Customers.pdf", "type": "Customer List", "category": "Client", "status": "Reviewed" },
+		{ "id": 3, "document": "Inv0001.pdf", "type": "Sample Invoice and Backup", "category": "Client", "status": "Reviewed" },
+		{ "id": 4, "document": "KYSoftballContract.doc", "type": "Customer Contract", "category": "Debtor", "status": "Requires Reviewed" },
+		{ "id": 5, "document": "CountryBankPayoff.doc", "type": "Payoff Letter", "category": "Lien", "status": "Awaiting Signature" },
+		{ "id": 6, "document": "Larry Trawl Owner Info.pdf", "type": "Owner info and credit permission", "category": "Owner", "status": "Awaiting Signature" }
+	]
+}
